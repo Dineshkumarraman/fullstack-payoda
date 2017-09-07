@@ -1,6 +1,7 @@
 # fullstack-payoda
 Developing fullstack project
 
-Front End: React js 
+Front End: Reactjs 
 Back end : Node
 DB: Mangodb
+
