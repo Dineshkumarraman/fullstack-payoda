@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import logo from './images/logo.png';
 import './App.css';
 import './styles/custom-style.css';
-
 class Fullstack extends Component {
   render() {
+
     return (
       <div className="Fullstack">
         <div className="header">
@@ -18,5 +18,4 @@ class Fullstack extends Component {
     );
   }
 }
-
 export default Fullstack;
